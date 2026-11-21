@@ -1,3 +1,4 @@
 Hello Git
 Learning Git is fun
 Hello from my new branch!
+Hello from my new branch!
